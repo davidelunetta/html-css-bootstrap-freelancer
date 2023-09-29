@@ -5,6 +5,10 @@
 #hero{
     background-color: #1ABC9C;
 }
+#about{
+    background-color: #1ABC9C;
+}
+
 
 
 .line{
@@ -19,6 +23,6 @@
 }
 .card{
     padding: 0;
-    width: 30%;
+    width: 25%;
 
 }
