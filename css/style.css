@@ -1,0 +1,18 @@
+
+.hero-img{
+    width: 15%;
+}
+
+
+
+.line-left{
+    border: 1px solid white;
+    width: 90px;
+    height: 1px;
+}
+.line-right{
+    border: 1px solid white;
+    width: 90px;
+    height: 1px;
+
+}
