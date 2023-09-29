@@ -2,17 +2,23 @@
 .hero-img{
     width: 15%;
 }
+#hero{
+    background-color: #1ABC9C;
+}
 
 
-
-.line-left{
+.line{
     border: 1px solid white;
     width: 90px;
     height: 1px;
 }
-.line-right{
-    border: 1px solid white;
+.line-dark{
+    border: 1px solid black;
     width: 90px;
     height: 1px;
+}
+.card{
+    padding: 0;
+    width: 30%;
 
 }
