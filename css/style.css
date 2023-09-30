@@ -39,3 +39,10 @@
     background-color: #1ABC9C;
     border: 1px solid #1ABC9C;
 }
+.my-icon{
+    border: 1px solid white;
+    border-radius: 50%;
+    background-color: #3A546D;
+    color: #ffffff;
+    
+}
