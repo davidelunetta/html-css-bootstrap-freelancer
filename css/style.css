@@ -26,3 +26,11 @@
     width: 25%;
 
 }
+.line-light{
+    border: 1px solid lightgray;
+    width: 100%;
+}
+.my-btn{
+    background-color: #1ABC9C;
+    border: 1px solid #1ABC9C;
+}
