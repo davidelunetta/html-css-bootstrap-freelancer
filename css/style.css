@@ -21,6 +21,9 @@ ul{
     list-style: none;
 
 }
+a{
+    text-decoration: none;
+}
 .line{
     border: 1px solid white;
     width: 90px;
