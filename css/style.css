@@ -58,3 +58,20 @@ a{
 .my-container{
     height: 35px;
 }
+
+
+/* RESPONSIVE */
+
+@media (min-width: 576px) {
+    #card{
+        flex-wrap: wrap;
+    }
+}
+
+@media (min-width: 768px){
+
+}
+
+@media (min-width: 1200px) {
+    
+}
